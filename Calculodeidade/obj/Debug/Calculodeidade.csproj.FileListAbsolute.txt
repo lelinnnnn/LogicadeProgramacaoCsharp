@@ -1,0 +1,7 @@
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\Calculodeidade\obj\Debug\Calculodeidade.csproj.AssemblyReference.cache
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\Calculodeidade\obj\Debug\Calculodeidade.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\Calculodeidade\bin\Debug\Calculodeidade.exe.config
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\Calculodeidade\bin\Debug\Calculodeidade.exe
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\Calculodeidade\bin\Debug\Calculodeidade.pdb
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\Calculodeidade\obj\Debug\Calculodeidade.exe
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\Calculodeidade\obj\Debug\Calculodeidade.pdb
