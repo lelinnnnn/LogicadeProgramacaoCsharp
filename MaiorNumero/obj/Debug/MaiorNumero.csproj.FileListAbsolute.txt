@@ -1,0 +1,7 @@
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\MaiorNumero\bin\Debug\MaiorNumero.exe.config
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\MaiorNumero\bin\Debug\MaiorNumero.exe
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\MaiorNumero\bin\Debug\MaiorNumero.pdb
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\MaiorNumero\obj\Debug\MaiorNumero.csproj.AssemblyReference.cache
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\MaiorNumero\obj\Debug\MaiorNumero.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\MaiorNumero\obj\Debug\MaiorNumero.exe
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\MaiorNumero\obj\Debug\MaiorNumero.pdb
