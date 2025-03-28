@@ -1,0 +1,7 @@
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\Multiplo\obj\Debug\Multiplo.csproj.AssemblyReference.cache
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\Multiplo\obj\Debug\Multiplo.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\Multiplo\bin\Debug\Multiplo.exe.config
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\Multiplo\bin\Debug\Multiplo.exe
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\Multiplo\bin\Debug\Multiplo.pdb
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\Multiplo\obj\Debug\Multiplo.exe
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\Multiplo\obj\Debug\Multiplo.pdb
