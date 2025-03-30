@@ -2,6 +2,8 @@
 
 
 
-Seja bem-vindo às aulas de Lógica de Programação com C#! Se você está começando no mundo da programação ou deseja aprimorar suas habilidades, este curso é para você. Aqui, abordaremos desde os conceitos básicos até tópicos mais avançados, utilizando a linguagem C# de maneira prática e eficiente.
+Seja bem-vindo ao meu Perfil!
 
-C# é uma linguagem poderosa e amplamente utilizada no desenvolvimento de softwares, especialmente em ambientes Microsoft. Ao longo do curso, você aprenderá a resolver problemas complexos utilizando lógica de programação, que é a base para qualquer linguagem de desenvolvimento.
+Aqui, você encontrará alguns dos projetos e estudos que estou realizando enquanto estou aprimorando minhas habilidades em C#. Estou atualmente no curso técnico em informática, com foco em desenvolvimento de software, e a programação tem se tornado uma das minhas grandes paixões. Através de meus projetos, busco colocar em prática o que aprendo nas aulas e, ao mesmo tempo, explorar novas ideias e desafios que surgem ao longo do caminho.Seja bem-vindo ao meu GitHub!
+
+Aqui, você encontrará alguns dos projetos e estudos que estou realizando enquanto estou aprimorando minhas habilidades em C#. Estou atualmente no curso técnico em informática, com foco em desenvolvimento de software, e a programação tem se tornado uma das minhas grandes paixões. Através de meus projetos, busco colocar em prática o que aprendo nas aulas e, ao mesmo tempo, explorar novas ideias e desafios que surgem ao longo do caminho.
