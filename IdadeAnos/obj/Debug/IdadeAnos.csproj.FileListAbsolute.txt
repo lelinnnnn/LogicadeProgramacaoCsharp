@@ -1,0 +1,7 @@
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\LogicadeProgramacaoCsharp\IdadeAnos\bin\Debug\IdadeAnos.exe.config
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\LogicadeProgramacaoCsharp\IdadeAnos\bin\Debug\IdadeAnos.exe
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\LogicadeProgramacaoCsharp\IdadeAnos\bin\Debug\IdadeAnos.pdb
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\LogicadeProgramacaoCsharp\IdadeAnos\obj\Debug\IdadeAnos.csproj.AssemblyReference.cache
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\LogicadeProgramacaoCsharp\IdadeAnos\obj\Debug\IdadeAnos.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\LogicadeProgramacaoCsharp\IdadeAnos\obj\Debug\IdadeAnos.exe
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\LogicadeProgramacaoCsharp\IdadeAnos\obj\Debug\IdadeAnos.pdb
