@@ -20,6 +20,23 @@ namespace Cartao
             //4 - Parcelado no cartão em três vezes ou mais, preço normal do produto mais juros de 10%
 
             {
+                Console.Title = "PAGAMENTO!";
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.Write(@" 
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║  ██████   █████   ██████   █████  ███    ███ ███████ ███    ██ ████████  ██████  ║ 
+║  ██   ██ ██   ██ ██       ██   ██ ████  ████ ██      ████   ██    ██    ██    ██ ║ 
+║  ██████  ███████ ██   ███ ███████ ██ ████ ██ █████   ██ ██  ██    ██    ██    ██ ║ 
+║  ██      ██   ██ ██    ██ ██   ██ ██  ██  ██ ██      ██  ██ ██    ██    ██    ██ ║ 
+║  ██      ██   ██  ██████  ██   ██ ██      ██ ███████ ██   ████    ██     ██████  ║ 
+");
+                
+                Console.WriteLine("╚══════════════════════════════════════════════════════════════════════════════════╝");
+                Console.ResetColor();
+
+
+
+                Console.WriteLine("Faça um algoritmo que leia o valor de um produto e determine o valor que deve ser pago, conforme a escolha da forma de pagamento pelo comprador e imprima na tela o valor final do produto a ser pago.Utilize os códigos da tabela de condições de pagamento para efetuar o cálculo adequado.");
                 double valorProduto, valorAserPago;
                 string formaDePagamento;
 
@@ -54,5 +71,6 @@ namespace Cartao
                     Console.WriteLine("Forma de pagamento inválida");
                 }
             }
+        }
     }
 }

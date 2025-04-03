@@ -1,0 +1,7 @@
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\LogicadeProgramacaoCsharp\Reajuste5\bin\Debug\Reajuste5.exe.config
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\LogicadeProgramacaoCsharp\Reajuste5\bin\Debug\Reajuste5.exe
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\LogicadeProgramacaoCsharp\Reajuste5\bin\Debug\Reajuste5.pdb
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\LogicadeProgramacaoCsharp\Reajuste5\obj\Debug\Reajuste5.csproj.AssemblyReference.cache
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\LogicadeProgramacaoCsharp\Reajuste5\obj\Debug\Reajuste5.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\LogicadeProgramacaoCsharp\Reajuste5\obj\Debug\Reajuste5.exe
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\LogicadeProgramacaoCsharp\Reajuste5\obj\Debug\Reajuste5.pdb

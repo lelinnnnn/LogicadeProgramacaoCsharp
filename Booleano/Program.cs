@@ -11,14 +11,25 @@ namespace Booleano
         static void Main(string[] args)
         {
 
-            string valor1, valor2;
+            bool valor1, valor2;
 
-            Console.WriteLine("Digite true para VERDADEIRO ou false para FALSO");
-            valor1 = Console.ReadLine();
-            Console.WriteLine("Digite true para VERDADEIRO ou false para FALSO");
-            valor2 = Console.ReadLine();
+            Console.ForegroundColor = ConsoleColor.Cyan;
+            Console.WriteLine(@"
+████████ ██████  ██    ██ ███████      ██████  ██    ██     ███████  █████  ██      ███████ ███████ 
+   ██    ██   ██ ██    ██ ██          ██    ██ ██    ██     ██      ██   ██ ██      ██      ██      
+   ██    ██████  ██    ██ █████       ██    ██ ██    ██     █████   ███████ ██      ███████ █████   
+   ██    ██   ██ ██    ██ ██          ██    ██ ██    ██     ██      ██   ██ ██           ██ ██      
+   ██    ██   ██  ██████  ███████      ██████   ██████      ██      ██   ██ ███████ ███████ ███████ 
+                                                                                                    ");
 
-            if (valor1 == "VERDADEIRO" && valor2 == "VERDADEIRO")
+            Console.ResetColor();
+            Console.WriteLine("Faça um algoritmo que leia dois valores booleanos (lógicos) e determine se ambos são VERDADEIRO ou FALSO.");
+            Console.WriteLine("Digite true para VERDADEIRO ou false para FALSO");
+            valor1 = bool.Parse(Console.ReadLine());
+            Console.WriteLine("Digite true para VERDADEIRO ou false para FALSO");
+            valor2 = bool.Parse(Console.ReadLine());
+
+            if (valor1 == true && valor2 == true)
             {
                 Console.WriteLine("VERDADEIRO");
             }

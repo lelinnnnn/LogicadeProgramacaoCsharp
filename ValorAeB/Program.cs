@@ -17,6 +17,32 @@ namespace ValorAeB
          */
             int a, b, c;
 
+
+            Console.Title = "SENAC";
+
+
+            
+            
+
+            
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine("╔═══════════════════════════════════════════════╗");
+            Console.Write(@"
+║          _______  _        _______  _______   ║
+║ |\     /|(  ___  )( \      (  ___  )(  ____ ) ║
+║ | )   ( || (   ) || (      | (   ) || (    )| ║
+║ | |   | || (___) || |      | |   | || (____)| ║
+║ ( (   ) )|  ___  || |      | |   | ||     __) ║
+║  \ \_/ / | (   ) || |      | |   | || (\ (    ║
+║   \   /  | )   ( || (____/\| (___) || ) \ \__ ║
+║    \_/   |/     \|(_______/(_______)|/   \__/ ║
+                                             
+"); Console.WriteLine("╚═══════════════════════════════════════════════╝");
+            Console.ForegroundColor= ConsoleColor.Green;
+
+
+            Console.WriteLine("Faça um programa que leia dois numeros inteiros");
+            Console.ResetColor();
             Console.Write("Digite o primeiro numero: ");
             a = int.Parse(Console.ReadLine());
 

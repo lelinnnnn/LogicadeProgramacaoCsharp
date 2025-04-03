@@ -10,6 +10,20 @@ namespace IMC
     {
         static void Main(string[] args)
         {
+
+            Console.ForegroundColor = ConsoleColor.Magenta;
+            Console.WriteLine(@" 
+╔═══════════════════════╗
+║ ██ ███    ███  ██████ ║
+║ ██ ████  ████ ██      ║
+║ ██ ██ ████ ██ ██      ║
+║ ██ ██  ██  ██ ██      ║
+║ ██ ██      ██  ██████ ║
+╚═══════════════════════╝                     
+                      
+");
+            Console.ResetColor();
+            Console.WriteLine("Faça um algoritmo que calcule o IMC (Índice de Massa Corporal) de uma pessoa, leia o seu peso e sua altura e imprima na tela sua condição ");
             double peso, altura, imc;
 
             Console.WriteLine("Calculo de IMC ");

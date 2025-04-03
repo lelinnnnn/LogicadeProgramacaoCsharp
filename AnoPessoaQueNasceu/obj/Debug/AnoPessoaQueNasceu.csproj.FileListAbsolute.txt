@@ -1,0 +1,7 @@
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\LogicadeProgramacaoCsharp\AnoPessoaQueNasceu\bin\Debug\AnoPessoaQueNasceu.exe.config
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\LogicadeProgramacaoCsharp\AnoPessoaQueNasceu\bin\Debug\AnoPessoaQueNasceu.exe
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\LogicadeProgramacaoCsharp\AnoPessoaQueNasceu\bin\Debug\AnoPessoaQueNasceu.pdb
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\LogicadeProgramacaoCsharp\AnoPessoaQueNasceu\obj\Debug\AnoPessoaQueNasceu.csproj.AssemblyReference.cache
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\LogicadeProgramacaoCsharp\AnoPessoaQueNasceu\obj\Debug\AnoPessoaQueNasceu.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\LogicadeProgramacaoCsharp\AnoPessoaQueNasceu\obj\Debug\AnoPessoaQueNasceu.exe
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\LogicadeProgramacaoCsharp\AnoPessoaQueNasceu\obj\Debug\AnoPessoaQueNasceu.pdb

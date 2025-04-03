@@ -1,0 +1,7 @@
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\LogicadeProgramacaoCsharp\IMC\obj\Debug\IMC.csproj.AssemblyReference.cache
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\LogicadeProgramacaoCsharp\IMC\obj\Debug\IMC.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\LogicadeProgramacaoCsharp\IMC\bin\Debug\IMC.exe.config
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\LogicadeProgramacaoCsharp\IMC\bin\Debug\IMC.exe
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\LogicadeProgramacaoCsharp\IMC\bin\Debug\IMC.pdb
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\LogicadeProgramacaoCsharp\IMC\obj\Debug\IMC.exe
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\LogicadeProgramacaoCsharp\IMC\obj\Debug\IMC.pdb

@@ -1,0 +1,7 @@
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\LogicadeProgramacaoCsharp\TempFahrenheitCelsius\bin\Debug\TempFahrenheitCelsius.exe.config
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\LogicadeProgramacaoCsharp\TempFahrenheitCelsius\bin\Debug\TempFahrenheitCelsius.exe
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\LogicadeProgramacaoCsharp\TempFahrenheitCelsius\bin\Debug\TempFahrenheitCelsius.pdb
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\LogicadeProgramacaoCsharp\TempFahrenheitCelsius\obj\Debug\TempFahrenheitCelsius.csproj.AssemblyReference.cache
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\LogicadeProgramacaoCsharp\TempFahrenheitCelsius\obj\Debug\TempFahrenheitCelsius.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\LogicadeProgramacaoCsharp\TempFahrenheitCelsius\obj\Debug\TempFahrenheitCelsius.exe
+C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\LogicadeProgramacaoCsharp\TempFahrenheitCelsius\obj\Debug\TempFahrenheitCelsius.pdb
