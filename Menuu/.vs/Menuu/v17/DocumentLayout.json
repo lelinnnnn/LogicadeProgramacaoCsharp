@@ -3,28 +3,91 @@
   "WorkspaceRootPath": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|c:\\users\\leonardo.sgoncalve3\\source\\repos\\logicadeprogramacaocsharp\\logicadeprogramacaocsharp\\menuu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|c:\\users\\leonardo.sgoncalve3\\source\\repos\\logicadeprogramacaocsharp\\logicadeprogramacaocsharp\\programmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|c:\\users\\leonardo.sgoncalve3\\source\\repos\\logicadeprogramacaocsharp\\logicadeprogramacaocsharp\\menuu\\cadastrarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|solutionrelative:cadastrarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|c:\\users\\leonardo.sgoncalve3\\source\\repos\\logicadeprogramacaocsharp\\logicadeprogramacaocsharp\\menuu\\calculoidadeanos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|solutionrelative:calculoidadeanos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|c:\\users\\leonardo.sgoncalve3\\source\\repos\\logicadeprogramacaocsharp\\logicadeprogramacaocsharp\\menuu\\cadastrarfornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|solutionrelative:cadastrarfornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|c:\\users\\leonardo.sgoncalve3\\source\\repos\\logicadeprogramacaocsharp\\logicadeprogramacaocsharp\\menuu\\fahrenheit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|solutionrelative:fahrenheit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|c:\\users\\leonardo.sgoncalve3\\source\\repos\\logicadeprogramacaocsharp\\logicadeprogramacaocsharp\\menuu\\cadastrarproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|solutionrelative:cadastrarproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|c:\\users\\leonardo.sgoncalve3\\source\\repos\\logicadeprogramacaocsharp\\logicadeprogramacaocsharp\\menuu\\valoresvinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|solutionrelative:valoresvinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|c:\\users\\leonardo.sgoncalve3\\source\\repos\\logicadeprogramacaocsharp\\logicadeprogramacaocsharp\\menuu\\cadastrarpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|solutionrelative:cadastrarpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|c:\\users\\leonardo.sgoncalve3\\source\\repos\\logicadeprogramacaocsharp\\logicadeprogramacaocsharp\\menuu\\valoraeb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|solutionrelative:valoraeb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|c:\\users\\leonardo.sgoncalve3\\source\\repos\\logicadeprogramacaocsharp\\logicadeprogramacaocsharp\\menuu\\cadastrarfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|solutionrelative:cadastrarfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\anobissexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|solutionrelative:anobissexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|c:\\users\\leonardo.sgoncalve3\\source\\repos\\logicadeprogramacaocsharp\\logicadeprogramacaocsharp\\menuu\\trocarvalor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|solutionrelative:trocarvalor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|c:\\users\\leonardo.sgoncalve3\\source\\repos\\logicadeprogramacaocsharp\\logicadeprogramacaocsharp\\menuu\\salariominimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|solutionrelative:salariominimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|c:\\users\\leonardo.sgoncalve3\\source\\repos\\logicadeprogramacaocsharp\\logicadeprogramacaocsharp\\menuu\\positivonegativoouzero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|solutionrelative:positivonegativoouzero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|c:\\users\\leonardo.sgoncalve3\\source\\repos\\logicadeprogramacaocsharp\\logicadeprogramacaocsharp\\menuu\\reajuste5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|solutionrelative:reajuste5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|c:\\users\\leonardo.sgoncalve3\\source\\repos\\logicadeprogramacaocsharp\\logicadeprogramacaocsharp\\menuu\\peixekg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|solutionrelative:peixekg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|c:\\users\\leonardo.sgoncalve3\\source\\repos\\logicadeprogramacaocsharp\\logicadeprogramacaocsharp\\menuu\\parate100.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|solutionrelative:parate100.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|c:\\users\\leonardo.sgoncalve3\\source\\repos\\logicadeprogramacaocsharp\\logicadeprogramacaocsharp\\menuu\\maiornumero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|solutionrelative:maiornumero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|c:\\users\\leonardo.sgoncalve3\\source\\repos\\logicadeprogramacaocsharp\\logicadeprogramacaocsharp\\menuu\\pernakeno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|solutionrelative:pernakeno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|c:\\users\\leonardo.sgoncalve3\\source\\repos\\logicadeprogramacaocsharp\\logicadeprogramacaocsharp\\menuu\\calculoidadeano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|solutionrelative:calculoidadeano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|c:\\users\\leonardo.sgoncalve3\\source\\repos\\logicadeprogramacaocsharp\\logicadeprogramacaocsharp\\menuu\\calculoimc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|solutionrelative:calculoimc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\calculotroco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|solutionrelative:calculotroco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\calculocartao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|solutionrelative:calculocartao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\calculodeidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|solutionrelative:calculodeidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\calculardesconto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|solutionrelative:calculardesconto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\numbooleano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|solutionrelative:numbooleano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\anonasceu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDEB1A6-BAFE-41FE-BB2D-E1E261A5784E}|Menuu.csproj|solutionrelative:anonasceu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,82 +97,284 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 21,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CadastrarCliente.cs",
-              "DocumentMoniker": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\CadastrarCliente.cs",
-              "RelativeDocumentMoniker": "CadastrarCliente.cs",
-              "ToolTip": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\CadastrarCliente.cs",
-              "RelativeToolTip": "CadastrarCliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ValoresVinho.cs",
+              "DocumentMoniker": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\ValoresVinho.cs",
+              "RelativeDocumentMoniker": "ValoresVinho.cs",
+              "ToolTip": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\ValoresVinho.cs",
+              "RelativeToolTip": "ValoresVinho.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T11:22:09.111Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CadastrarFornecedor.cs",
-              "DocumentMoniker": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\CadastrarFornecedor.cs",
-              "RelativeDocumentMoniker": "CadastrarFornecedor.cs",
-              "ToolTip": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\CadastrarFornecedor.cs",
-              "RelativeToolTip": "CadastrarFornecedor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T11:21:48.732Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CadastrarFuncionario.cs",
-              "DocumentMoniker": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\CadastrarFuncionario.cs",
-              "RelativeDocumentMoniker": "CadastrarFuncionario.cs",
-              "ToolTip": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\CadastrarFuncionario.cs",
-              "RelativeToolTip": "CadastrarFuncionario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T11:21:14.475Z",
+              "WhenOpened": "2025-04-11T14:33:56.872Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CadastrarPedido.cs",
-              "DocumentMoniker": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\CadastrarPedido.cs",
-              "RelativeDocumentMoniker": "CadastrarPedido.cs",
-              "ToolTip": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\CadastrarPedido.cs",
-              "RelativeToolTip": "CadastrarPedido.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Title": "ValorAeB.cs",
+              "DocumentMoniker": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\ValorAeB.cs",
+              "RelativeDocumentMoniker": "ValorAeB.cs",
+              "ToolTip": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\ValorAeB.cs",
+              "RelativeToolTip": "ValorAeB.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwD8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T11:20:49.673Z",
+              "WhenOpened": "2025-04-11T14:24:52.36Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CadastrarProduto.cs",
-              "DocumentMoniker": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\CadastrarProduto.cs",
-              "RelativeDocumentMoniker": "CadastrarProduto.cs",
-              "ToolTip": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\CadastrarProduto.cs",
-              "RelativeToolTip": "CadastrarProduto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "TrocarValor.cs",
+              "DocumentMoniker": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\TrocarValor.cs",
+              "RelativeDocumentMoniker": "TrocarValor.cs",
+              "ToolTip": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\TrocarValor.cs",
+              "RelativeToolTip": "TrocarValor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T11:18:10.016Z",
+              "WhenOpened": "2025-04-11T14:23:00.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fahrenheit.cs",
+              "DocumentMoniker": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\Fahrenheit.cs",
+              "RelativeDocumentMoniker": "Fahrenheit.cs",
+              "ToolTip": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\Fahrenheit.cs",
+              "RelativeToolTip": "Fahrenheit.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:20:48.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SalarioMinimo.cs",
+              "DocumentMoniker": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\SalarioMinimo.cs",
+              "RelativeDocumentMoniker": "SalarioMinimo.cs",
+              "ToolTip": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\SalarioMinimo.cs",
+              "RelativeToolTip": "SalarioMinimo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:15:18.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Reajuste5.cs",
+              "DocumentMoniker": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\Reajuste5.cs",
+              "RelativeDocumentMoniker": "Reajuste5.cs",
+              "ToolTip": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\Reajuste5.cs",
+              "RelativeToolTip": "Reajuste5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:10:31.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PositivoNegativoouZero.cs",
+              "DocumentMoniker": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\PositivoNegativoouZero.cs",
+              "RelativeDocumentMoniker": "PositivoNegativoouZero.cs",
+              "ToolTip": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\PositivoNegativoouZero.cs",
+              "RelativeToolTip": "PositivoNegativoouZero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:06:33.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Peixekg.cs",
+              "DocumentMoniker": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\Peixekg.cs",
+              "RelativeDocumentMoniker": "Peixekg.cs",
+              "ToolTip": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\Peixekg.cs",
+              "RelativeToolTip": "Peixekg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:02:33.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ParAte100.cs",
+              "DocumentMoniker": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\ParAte100.cs",
+              "RelativeDocumentMoniker": "ParAte100.cs",
+              "ToolTip": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\ParAte100.cs",
+              "RelativeToolTip": "ParAte100.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T13:56:26.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MaiorNumero.cs",
+              "DocumentMoniker": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\MaiorNumero.cs",
+              "RelativeDocumentMoniker": "MaiorNumero.cs",
+              "ToolTip": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\MaiorNumero.cs",
+              "RelativeToolTip": "MaiorNumero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T13:51:59.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PernaKeno.cs",
+              "DocumentMoniker": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\PernaKeno.cs",
+              "RelativeDocumentMoniker": "PernaKeno.cs",
+              "ToolTip": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\PernaKeno.cs",
+              "RelativeToolTip": "PernaKeno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T13:49:08.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculoIdadeAnos.cs",
+              "DocumentMoniker": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\CalculoIdadeAnos.cs",
+              "RelativeDocumentMoniker": "CalculoIdadeAnos.cs",
+              "ToolTip": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\CalculoIdadeAnos.cs",
+              "RelativeToolTip": "CalculoIdadeAnos.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T13:46:52.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CalculoIdadeAno.cs",
+              "DocumentMoniker": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\CalculoIdadeAno.cs",
+              "RelativeDocumentMoniker": "CalculoIdadeAno.cs",
+              "ToolTip": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\CalculoIdadeAno.cs",
+              "RelativeToolTip": "CalculoIdadeAno.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T13:01:46.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CalculoIMC.cs",
+              "DocumentMoniker": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\CalculoIMC.cs",
+              "RelativeDocumentMoniker": "CalculoIMC.cs",
+              "ToolTip": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\CalculoIMC.cs",
+              "RelativeToolTip": "CalculoIMC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:53:07.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CalculoTroco.cs",
+              "DocumentMoniker": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\CalculoTroco.cs",
+              "RelativeDocumentMoniker": "CalculoTroco.cs",
+              "ToolTip": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\CalculoTroco.cs",
+              "RelativeToolTip": "CalculoTroco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:49:00.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CalculoCartao.cs",
+              "DocumentMoniker": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\CalculoCartao.cs",
+              "RelativeDocumentMoniker": "CalculoCartao.cs",
+              "ToolTip": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\CalculoCartao.cs",
+              "RelativeToolTip": "CalculoCartao.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:46:58.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CalculodeIdade.cs",
+              "DocumentMoniker": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\CalculodeIdade.cs",
+              "RelativeDocumentMoniker": "CalculodeIdade.cs",
+              "ToolTip": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\CalculodeIdade.cs",
+              "RelativeToolTip": "CalculodeIdade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:43:32.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CalcularDesconto.cs",
+              "DocumentMoniker": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\CalcularDesconto.cs",
+              "RelativeDocumentMoniker": "CalcularDesconto.cs",
+              "ToolTip": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\CalcularDesconto.cs",
+              "RelativeToolTip": "CalcularDesconto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:42:19.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NumBooleano.cs",
+              "DocumentMoniker": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\NumBooleano.cs",
+              "RelativeDocumentMoniker": "NumBooleano.cs",
+              "ToolTip": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\NumBooleano.cs",
+              "RelativeToolTip": "NumBooleano.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:40:31.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AnoNasceu.cs",
+              "DocumentMoniker": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\AnoNasceu.cs",
+              "RelativeDocumentMoniker": "AnoNasceu.cs",
+              "ToolTip": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\AnoNasceu.cs",
+              "RelativeToolTip": "AnoNasceu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:37:15.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnoBissexto.cs",
+              "DocumentMoniker": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\AnoBissexto.cs",
+              "RelativeDocumentMoniker": "AnoBissexto.cs",
+              "ToolTip": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\AnoBissexto.cs",
+              "RelativeToolTip": "AnoBissexto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:34:23.004Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\Menuu\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAgwDwAAAAqAAAAAAAAAA==",
+              "Title": "ProgramMenu.cs",
+              "DocumentMoniker": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\ProgramMenu.cs",
+              "RelativeDocumentMoniker": "..\\ProgramMenu.cs",
+              "ToolTip": "C:\\Users\\leonardo.sgoncalve3\\source\\repos\\LogicadeProgramacaoCsharp\\LogicadeProgramacaoCsharp\\ProgramMenu.cs",
+              "RelativeToolTip": "..\\ProgramMenu.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwAkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-11T11:11:12.81Z",
               "EditorCaption": ""

@@ -43,13 +43,29 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CadastrarCliente.cs" />
-    <Compile Include="CadastrarFornecedor.cs" />
-    <Compile Include="CadastrarFuncionario.cs" />
-    <Compile Include="CadastrarPedido.cs" />
-    <Compile Include="CadastrarProduto.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="..\ProgramMenu.cs" />
+    <Compile Include="AnoBissexto.cs" />
+    <Compile Include="AnoNasceu.cs" />
+    <Compile Include="CalcularDesconto.cs" />
+    <Compile Include="CalculoCartao.cs" />
+    <Compile Include="CalculodeIdade.cs" />
+    <Compile Include="CalculoIdadeAno.cs" />
+    <Compile Include="CalculoIdadeAnos.cs" />
+    <Compile Include="CalculoIMC.cs" />
+    <Compile Include="CalculoTroco.cs" />
+    <Compile Include="Fahrenheit.cs" />
+    <Compile Include="MaiorNumero.cs" />
+    <Compile Include="NumBooleano.cs" />
+    <Compile Include="ParAte100.cs" />
+    <Compile Include="Peixekg.cs" />
+    <Compile Include="PernaKeno.cs" />
+    <Compile Include="PositivoNegativoouZero.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reajuste5.cs" />
+    <Compile Include="SalarioMinimo.cs" />
+    <Compile Include="TrocarValor.cs" />
+    <Compile Include="ValorAeB.cs" />
+    <Compile Include="ValoresVinho.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

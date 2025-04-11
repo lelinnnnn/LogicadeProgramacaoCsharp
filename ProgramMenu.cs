@@ -37,7 +37,7 @@ namespace Menu
                 Console.WriteLine(" 6 - Atividade cartão pagamento");
                 Console.WriteLine(" 7 - Atividade do troco ");
                 Console.WriteLine(" 8 - Atividade calcular IMC ");
-                Console.WriteLine(" 9 - Atividade idade ano ");
+                Console.WriteLine(" 9 - Atividade idade ano - INDISPONÍVEL");
                 Console.WriteLine(" 10 - Atividade idade anos ");
                 Console.WriteLine(" 11 - Atividade Keno ");
                 Console.WriteLine(" 12 - Atividade maior número ");
@@ -47,7 +47,7 @@ namespace Menu
                 Console.WriteLine(" 16 - Atividade positivo negativo ou zero");
                 Console.WriteLine(" 17 - Atividade reajuste 5%");
                 Console.WriteLine(" 18 - Atividade salário mínimo");
-                Console.WriteLine(" 19 - Atividade sucessor");
+                Console.WriteLine(" 19 - Atividade sucessor - INDISPONÍVEL");
                 Console.WriteLine(" 20 - Atividade Temperatura Fahrenheit Celsius");
                 Console.WriteLine(" 21 - Atividade trocar valor");
                 Console.WriteLine(" 22 - Atividade valor A e B");
@@ -103,6 +103,61 @@ namespace Menu
 
                         CalculoIMC.IMC();
                         break;
+
+                    case 9:
+
+                        Console.WriteLine("Indisponível");
+                        break;
+
+                    case 10:
+
+                        CalculoIdadeAnos.IdadeAnos();
+                        break;
+
+                        
+                    case 11:
+                        PernaKeno.Keno();
+                        break;
+
+                        case 12:  
+                            MaiorNumero.Numero();
+                        break;
+
+                    case 13:
+                        ParAte100.Ate100();
+                        break;
+
+                        case 14:
+                        Peixekg.Peixe();
+                        break;
+
+                        case 15:
+
+                            PositivoNegativoouZero.NegativouZero();
+                        break;
+
+                    case 16:
+                        Reajuste5.CincoPorCento();
+                        break;
+
+                    case 17:
+                        SalarioMinimo.Minimo();
+                        break;
+
+                    case 18:
+                        Fahrenheit.Fah();
+                        break;
+
+                        case 19:
+                            ValoresVinho.Vinho();
+                        break;
+
+
+
+
+
+
+
                     default:
 
                         Console.WriteLine(" 0Opção Invalida...Tente novamente");
