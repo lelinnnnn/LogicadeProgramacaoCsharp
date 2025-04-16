@@ -5,3 +5,10 @@ C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\LogicadeProg
 C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\LogicadeProgramacaoCsharp\Menuu\obj\Debug\Menuu.csproj.CoreCompileInputs.cache
 C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\LogicadeProgramacaoCsharp\Menuu\obj\Debug\Menuu.exe
 C:\Users\leonardo.sgoncalve3\source\repos\LogicadeProgramacaoCsharp\LogicadeProgramacaoCsharp\Menuu\obj\Debug\Menuu.pdb
+C:\Users\leonardo.sgoncalve3\Documents\repos\LogicadeProgramacaoCsharp\Menuu\bin\Debug\Menuu.exe.config
+C:\Users\leonardo.sgoncalve3\Documents\repos\LogicadeProgramacaoCsharp\Menuu\bin\Debug\Menuu.exe
+C:\Users\leonardo.sgoncalve3\Documents\repos\LogicadeProgramacaoCsharp\Menuu\bin\Debug\Menuu.pdb
+C:\Users\leonardo.sgoncalve3\Documents\repos\LogicadeProgramacaoCsharp\Menuu\obj\Debug\Menuu.csproj.AssemblyReference.cache
+C:\Users\leonardo.sgoncalve3\Documents\repos\LogicadeProgramacaoCsharp\Menuu\obj\Debug\Menuu.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.sgoncalve3\Documents\repos\LogicadeProgramacaoCsharp\Menuu\obj\Debug\Menuu.exe
+C:\Users\leonardo.sgoncalve3\Documents\repos\LogicadeProgramacaoCsharp\Menuu\obj\Debug\Menuu.pdb
