@@ -1,0 +1,7 @@
+C:\Users\leonardo.sgoncalve3\Documents\GitHub\LogicadeProgramacaoCsharp\Randomm\Randomm\bin\Debug\Randomm.exe.config
+C:\Users\leonardo.sgoncalve3\Documents\GitHub\LogicadeProgramacaoCsharp\Randomm\Randomm\bin\Debug\Randomm.exe
+C:\Users\leonardo.sgoncalve3\Documents\GitHub\LogicadeProgramacaoCsharp\Randomm\Randomm\bin\Debug\Randomm.pdb
+C:\Users\leonardo.sgoncalve3\Documents\GitHub\LogicadeProgramacaoCsharp\Randomm\Randomm\obj\Debug\Randomm.csproj.AssemblyReference.cache
+C:\Users\leonardo.sgoncalve3\Documents\GitHub\LogicadeProgramacaoCsharp\Randomm\Randomm\obj\Debug\Randomm.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.sgoncalve3\Documents\GitHub\LogicadeProgramacaoCsharp\Randomm\Randomm\obj\Debug\Randomm.exe
+C:\Users\leonardo.sgoncalve3\Documents\GitHub\LogicadeProgramacaoCsharp\Randomm\Randomm\obj\Debug\Randomm.pdb

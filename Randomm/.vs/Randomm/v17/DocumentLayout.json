@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leonardo.sgoncalve3\\Documents\\GitHub\\LogicadeProgramacaoCsharp\\Randomm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2449BE01-E1C3-4427-9998-3931BFE885C0}|Randomm\\Randomm.csproj|c:\\users\\leonardo.sgoncalve3\\documents\\github\\logicadeprogramacaocsharp\\randomm\\randomm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2449BE01-E1C3-4427-9998-3931BFE885C0}|Randomm\\Randomm.csproj|solutionrelative:randomm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leonardo.sgoncalve3\\Documents\\GitHub\\LogicadeProgramacaoCsharp\\Randomm\\Randomm\\Program.cs",
+              "RelativeDocumentMoniker": "Randomm\\Program.cs",
+              "ToolTip": "C:\\Users\\leonardo.sgoncalve3\\Documents\\GitHub\\LogicadeProgramacaoCsharp\\Randomm\\Randomm\\Program.cs",
+              "RelativeToolTip": "Randomm\\Program.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAwwGgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T11:36:43.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
